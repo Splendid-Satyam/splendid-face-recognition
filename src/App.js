@@ -108,7 +108,7 @@ class App extends Component
     this.setState({ ImageUrl : this.state.input });
 
     app.models.predict (
-      Clarifai.FACE_DETECT_MODEL, 
+      'e15d0f873e66047e579f90cf82c9882z', 
       this.state.input
       )
       .then(response => {
