@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/splendid-face-recognition/precache-manifest.4cf9c38f071c8bb74d9f9497cfaf3ae7.js"
+  "/splendid-face-recognition/precache-manifest.dcd1fa32daa03af4b0328641e01fb2f6.js"
 );
 
 self.addEventListener('message', (event) => {
